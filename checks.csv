@@ -1,2 +1,3 @@
 Name,Type,Host
 Check3,http,www.stuff.co.nz
+Check4,http,www.metservice.co.nz
