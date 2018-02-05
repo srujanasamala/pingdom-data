@@ -1,4 +1,3 @@
 Name,Type,HostName
 Check3,http,www.google.co.nz
 Check4,http,www.metservice.co.nz
-Check5,http,www.dumbtools.co.nz
