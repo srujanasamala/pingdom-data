@@ -1,3 +1,3 @@
 Name,Type,HostName
-Check2,http,www.google.com
-Check3,http,www.stuff.co.nz
+Check1,http,www.metservice.co.nz
+Check2,http,www.google.co.nz
